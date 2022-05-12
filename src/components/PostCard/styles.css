@@ -1,0 +1,27 @@
+.post {
+  cursor: pointer;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  overflow: hidden;
+  transition: all 0.3s;
+}
+
+.post:hover {
+  transform: scale(105%);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.post-content {
+  padding: 0 2rem 2rem 2rem;
+}
+
+.post-image {
+  height: 15rem;
+  width: 100%;
+}
+
+.post-title {
+  padding: 10px 0;
+  text-transform: capitalize;
+}

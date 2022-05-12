@@ -1,0 +1,24 @@
+header {
+  background: #03c2fc;
+  padding: 1.5rem 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  color: white;
+  font-size: 3rem;
+}
+
+.header-title {
+  font-family: sans-serif;
+  color: white;
+  font-size: 3rem;
+  font-weight: 100;
+}
+
+.blog-title-box {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+img {
+  max-width: 100%;
+}
+
+.container {
+  min-height: 100vh;
+  background: #ddd;
+  padding: 0 50px;
+}
